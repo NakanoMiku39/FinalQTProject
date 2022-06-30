@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/map.jpg</file>
+        <file>img/pandemic.jpg</file>
+        <file>img/black_cure.png</file>
+        <file>img/blue_cure.png</file>
+        <file>img/infection_rate_marker.png</file>
+        <file>img/outbreak_marker.png</file>
+        <file>img/red_cure.png</file>
+        <file>img/research_station.png</file>
+        <file>img/yellow_cure.png</file>
+        <file>img/black_cure.jpg</file>
+        <file>img/blue_cure.jpg</file>
+        <file>img/infection_rate_marker.jpg</file>
+        <file>img/outbreak_marker.jpg</file>
+        <file>img/red_cure.jpg</file>
+        <file>img/research_station.jpg</file>
+        <file>img/title.jpg</file>
+        <file>img/yellow_cure.jpg</file>
+        <file>img/title.png</file>
+    </qresource>
+</RCC>
